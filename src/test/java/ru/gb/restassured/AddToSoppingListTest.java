@@ -1,4 +1,4 @@
-package ru.gb.restassured.test;
+package ru.gb.restassured;
 
 import com.github.javafaker.Faker;
 import io.restassured.path.json.JsonPath;

@@ -1,4 +1,4 @@
-package ru.gb.restassured.test;
+package ru.gb.restassured;
 
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;

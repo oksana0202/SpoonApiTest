@@ -1,4 +1,4 @@
-package ru.gb.restassured.test;
+package ru.gb.restassured;
 
 import static io.restassured.RestAssured.given;
 
